@@ -1,6 +1,6 @@
 import streamlit as st
 
-
+st.set_page_config(page_title="Todo List")
 
 # Title for the app
 st.title("Welcome to ToDoList")
